@@ -73,6 +73,8 @@ The project uses essential network devices to simulate a realistic environment:
 - Monitored ACL hits to confirm rule application.
 - Adjusted configurations based on observed network behavior.
 
+  ![Network Topology](images/network_pinging.png)
+
 ### 11. Security Concepts
 - Role-based access control with ACLs limits unauthorized access.
 - Network segmentation confines potential security issues.
