@@ -14,7 +14,7 @@ The project uses essential network devices to simulate a realistic environment:
 - Simple hierarchical star topology.  
 - Router is central, connecting two separate switches.  
 - Switches connect PCs in different subnets, illustrating subnet segmentation and inter-network communication.
-![Topology](images/network_topology)
+
 
 ### 3. IP Addressing Scheme
 | Device   | Interface       | IP Address      | Subnet Mask     | Default Gateway  |
