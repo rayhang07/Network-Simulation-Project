@@ -16,6 +16,10 @@ The project uses essential network devices to simulate a realistic environment:
 - Switches connect PCs in different subnets, illustrating subnet segmentation and inter-network communication.
 
 
+![Network Topology](images/network_topology.png)
+
+
+
 ### 3. IP Addressing Scheme
 | Device   | Interface       | IP Address      | Subnet Mask     | Default Gateway  |
 |----------|-----------------|-----------------|-----------------|------------------|
