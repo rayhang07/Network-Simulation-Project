@@ -64,6 +64,9 @@ The project uses essential network devices to simulate a realistic environment:
 - Tech subnet restricted from accessing admin subnet.  
 - Other traffic permitted as necessary.
 
+  
+![Network Topology](images/network_acl.png)
+
 ### 10. Troubleshooting + debugging
 - Verified connectivity using 'ping'
 - Checked interface statuses with show 'ip interface brief'.
