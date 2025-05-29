@@ -45,7 +45,7 @@ The project uses essential network devices to simulate a realistic environment:
 - PCs set their gateway to router IPs to enable cross-subnet communication.
 
 ### 6. Basic Device Configuration  
-- Hostnames assigned for clarity (e.g., Router_Main, Switch_Tech).  
+- Hostnames assigned for clarity (e.g., HQ-Router, SW_Tech).  
 - Router interfaces configured with IP addresses.  
 - Interfaces enabled (`no shutdown`).  
 - Connectivity verified using `ping` and interface status commands.
